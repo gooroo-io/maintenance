@@ -1,0 +1,56 @@
+body {
+	background: #414B57;
+	background: url('random_grey_variations.png');
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+}
+
+.row {
+	max-width: 1200px;
+}
+.top-bar {
+	background: #313942;
+}
+
+img.logo {
+width: 150px;
+}
+
+div.top-bar-section {
+	padding-left: 1rem;
+	padding-top: 0;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+section.title {
+	background: #242C34;
+	margin-top: 2rem;
+	padding: 1rem;
+}
+
+section.title h1 {
+	line-height: 1.2;
+	font-size: 2.5rem;
+	color: #fff;
+}
+
+section.title h3 {
+	font-size: 1.5rem;
+	line-height: 1.5;
+	color: #ffcc00;
+	font-weight: normal;
+}
+
+section.content {
+	background: #fff;
+	padding: 1rem;
+}
+
+div.video {
+  text-align:center;
+  width:100%;
+}
