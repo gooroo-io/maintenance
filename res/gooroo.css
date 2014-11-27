@@ -51,6 +51,11 @@ section.content {
 }
 
 div.video {
-  text-align:center;
-  width:100%;
+  text-align: center;
+  width: 100%;
+}
+
+div.contact {
+	text-align: center;
+	width: 100%;
 }
