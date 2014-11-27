@@ -1,0 +1,312 @@
+fonts@font-face {
+	font-family: 'msgooroo';
+	src: url('res/msgooroo.eot?-u504b4');
+	src: url('res/msgooroo.eot?#iefix-u504b4') format('embedded-opentype'), 
+	url('res/msgooroo.woff?-u504b4') format('woff'), 
+	url('res/msgooroo.ttf?-u504b4') format('truetype'), 
+	url('res/msgooroo.svg?-u504b4#msgooroo') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'msgooroo';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-stackexchange:before {
+	content: "\e600";
+}
+
+.icon-stackoverflow:before {
+	content: "\e601";
+}
+
+.icon-github-text:before {
+	content: "\e602";
+}
+
+.icon-github:before {
+	content: "\e603";
+}
+
+.icon-tags:before {
+	content: "\e604";
+}
+
+.icon-tag:before {
+	content: "\e605";
+}
+
+.icon-lock:before {
+	content: "\e606";
+}
+
+.icon-twitter:before {
+	content: "\e607";
+}
+
+.icon-feed:before {
+	content: "\e608";
+}
+
+.icon-gplus:before {
+	content: "\e609";
+}
+
+.icon-facebook:before {
+	content: "\e60a";
+}
+
+.icon-windows:before {
+	content: "\e60b";
+}
+
+.icon-arrow-up-right:before {
+	content: "\e60c";
+}
+
+.icon-skype:before {
+	content: "\e60d";
+}
+
+.icon-type-2:before,
+.icon-trophy:before {
+	content: "\e60e";
+}
+
+.icon-picture:before {
+	content: "\e60f";
+}
+
+.icon-user-add:before {
+	content: "\e610";
+}
+
+.icon-tick:before {
+	content: "\e611";
+}
+
+.icon-star:before {
+	content: "\e612";
+}
+
+.icon-share:before {
+	content: "\e613";
+}
+
+.icon-search:before {
+	content: "\e614";
+}
+
+.icon-people:before {
+	content: "\e615";
+}
+
+.icon-heart:before {
+	content: "\e616";
+}
+
+.icon-email:before {
+	content: "\e617";
+}
+
+.icon-type-1:before,
+.icon-education:before {
+	content: "\e618";
+}
+
+.icon-discussion:before {
+	content: "\e619";
+}
+
+.icon-cross:before {
+	content: "\e61a";
+}
+
+.icon-credits:before {
+	content: "\e61b";
+}
+
+.icon-plus:before {
+	content: "\e61c";
+}
+
+.icon-minus:before {
+	content: "\e61d";
+}
+
+.icon-tag-remove:before {
+	content: "\e61e";
+}
+
+.icon-tag-add:before {
+	content: "\e61f";
+}
+
+.icon-type-3:before,
+.icon-job:before,
+.icon-work:before {
+	content: "\e620";
+}
+
+.icon-eye:before {
+	content: "\e621";
+}
+
+.icon-earth:before {
+	content: "\e622";
+}
+
+.icon-book:before {
+	content: "\e624";
+}
+
+.icon-books:before {
+	content: "\e625";
+}
+
+.icon-credit:before {
+	content: "\e626";
+}
+
+.icon-person:before {
+	content: "\e627";
+}
+
+.icon-cogs:before {
+	content: "\e628";
+}
+
+.icon-stats:before {
+	content: "\e629";
+}
+
+.icon-pencil:before {
+	content: "\e62a";
+}
+
+.icon-skill:before,
+.icon-tools:before {
+	content: "\e62b";
+}
+
+.icon-trash:before {
+	content: "\e62c";
+}
+
+.icon-gooroo:before {
+	content: "\e62d";
+}
+
+.icon-coin:before {
+	content: "\e62e";
+}
+
+.icon-bars:before {
+	content: "\e62f";
+}
+
+.icon-cc:before {
+	content: "\e630";
+}
+
+.icon-cc-b:before {
+	content: "\e631";
+}
+
+.icon-cc-nc:before {
+	content: "\e632";
+}
+
+.icon-cc-sa:before {
+	content: "\e633";
+}
+
+.icon-cc-nd:before {
+	content: "\e634";
+}
+
+.icon-glasses:before {
+	content: "\e635";
+}
+
+.icon-glasses-2:before {
+	content: "\e636";
+}
+
+.icon-footsteps:before {
+	content: "\e637";
+}
+
+.icon-profile:before {
+	content: "\e638";
+}
+
+.icon-pie-chart:before {
+	content: "\e639";
+}
+
+.icon-suggest:before {
+	content: "\e63a";
+}
+
+.icon-think:before {
+	content: "\e63b";
+}
+
+.icon-linkedin:before {
+	content: "\e6002";
+}
+
+
+/* Evidence for skills */
+.icon-skill-evidence-none:before {
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	content: "?";
+}
+
+.icon-skill-evidence-evidenced:before {
+	content: "\e63a";
+}
+
+{
+	content: "\e62d";
+	content: "\e611";
+}
+
+.icon-skill-evidence-gooroo:before {
+	content: "\e629";
+}
+
+
+
+.icon-rejected:before {
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	content: "X";
+}
+
+.icon-fraud:before {
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	content: "F";
+}
+
+
+
+.icon-verified:before, .icon-skill-evidence-verified:before {
+	content: "\e62d";
+}
+
+/* Evidence for skills */
+.icon-not-verified:before {
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	content: "?";
+}
